@@ -1,4 +1,4 @@
-# focusctl - Process CPU Scheduling via cgroups v2
+# Focus Mode Scheduler
 
 A Linux utility for managing process CPU scheduling using cgroups v2. This project provides two main tools:
 
