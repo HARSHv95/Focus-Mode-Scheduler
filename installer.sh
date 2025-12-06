@@ -5,3 +5,7 @@ cp focusctl focusd /usr/local/bin/
 
 chmod +x /usr/local/bin/focusctl
 chmod +x /usr/local/bin/focusd
+
+sudo mkdir -p /var/lib/focusctl
+
+sudo focusctl init
